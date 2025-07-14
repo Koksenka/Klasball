@@ -10,7 +10,7 @@
 
 ### Решение
 
-
+![alt text](https://github.com/Koksenka/Klasball/blob/master/1.png)
 
 
 ---
@@ -24,5 +24,5 @@
 
 ### Решение
 
-
+[alt text](https://github.com/Koksenka/Klasball/blob/master/2.png)
 

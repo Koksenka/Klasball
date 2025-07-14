@@ -24,5 +24,5 @@
 
 ### Решение
 
-[alt text](https://github.com/Koksenka/Klasball/blob/master/2.png)
+![alt text](https://github.com/Koksenka/Klasball/blob/master/2.png)
 

@@ -12,7 +12,7 @@
 
 ![alt text](https://github.com/Koksenka/Klasball/blob/master/1.png)
 
-
+https://github.com/Koksenka/Klasball/blob/master/haproxy1.cfg
 ---
 
 ### Задание 2
@@ -26,3 +26,4 @@
 
 ![alt text](https://github.com/Koksenka/Klasball/blob/master/2.png)
 
+https://github.com/Koksenka/Klasball/blob/master/haproxy2.cfg
